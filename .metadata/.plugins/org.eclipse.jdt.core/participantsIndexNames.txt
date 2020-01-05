@@ -1,5 +1,0 @@
-INDEX VERSION 1.131
-/Users/fanghuimin/JAVA/project/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/865646088.index
-/Study/src
-/Users/fanghuimin/JAVA/project/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3082874910.index
-/test/src

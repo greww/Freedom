@@ -1,3 +1,0 @@
-#Tomcat publish data
-#Mon Jan 06 02:46:47 MSK 2020
-org.eclipse.jst.jee.server\:test=/Users/fanghuimin/JAVA/apache-tomcat-9.0.16/webapps/test
