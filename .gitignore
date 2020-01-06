@@ -1,0 +1,9 @@
+.metadata/
+.git/
+Servers/
+.settings/
+.DS_Store
+.settings/
+.project
+.classpath
+
